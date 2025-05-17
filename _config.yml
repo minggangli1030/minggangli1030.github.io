@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "Minggang's Homepage"
+title                    : "Martin's Homepage"
 title_separator          : "-"
 name                     : &name "Minggang (Martin) Li"
 description              : &description "personal description"
@@ -25,7 +25,7 @@ author:
   avatar           : "Minggang.jpg"
   name             : "Minggang (Martin) Li"
   pronouns         : # example: "she/her"  
-  bio              : "Applied Math + Data Science @ Berkeley"
+  bio              : "AMath + DS @ Berkeley"
   location         : "Berkeley, CA"
   employer         : # "University of California, Berkeley"
   uri              : # URL
