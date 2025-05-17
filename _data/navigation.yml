@@ -9,14 +9,18 @@
 
 main:  
     
-  - title: "Portfolio"
-    url: /portfolio/
+  - title: "Home"
+    url: /
+
+  - title: "Project"
+    url: /project/
         
   - title: "Coursework"
     url: /coursework/
 
   - title: "CV"
     url: /cv/
+
     
     
   # - title: "CV"
