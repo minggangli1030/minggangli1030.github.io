@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "Your Name / Site Title"
+title                    : "Minggang's Homepage"
 title_separator          : "-"
 name                     : &name "Minggang (Martin) Li"
 description              : &description "personal description"
@@ -22,12 +22,12 @@ repository               : "academicpages/minggangli1030.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "Minggang.jpg"
   name             : "Minggang (Martin) Li"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
+  bio              : "Applied Math + Data Science @ Berkeley"
   location         : "Berkeley, CA"
-  employer         : "University of California, Berkeley"
+  employer         : # "University of California, Berkeley"
   uri              : # URL
   email            : "minggangli@berkeley.edu" 
 
