@@ -12,14 +12,14 @@ main:
   - title: "Home"
     url: /
 
-  - title: "Project"
-    url: /project/
+  - title: "Projects"
+    url: /projects/
         
   - title: "Coursework"
     url: /coursework/
 
-  - title: "CV"
-    url: /cv/
+  # - title: "CV"
+  #   url: /cv/
 
     
     
