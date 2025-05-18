@@ -5,7 +5,7 @@ permalink: /coursework/
 author_profile: true
 ---
 
-## UC Berkeley Coursework
+## UC Berkeley
 
 ### Summer 2025
 - COMPSCI 61C: Great Ideas of Computer Architecture (Machine Structures)
