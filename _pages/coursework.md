@@ -8,9 +8,9 @@ author_profile: true
 ## UC Berkeley Coursework
 
 ### Summer 2025
-- CS 61C: Great Ideas of Computer Architecture (Machine Structures)
-- DATA C100: Principles & Techniques of Data Science
-- ENGL-1B-40761 (CC): Adv Comp and Critical Thinking
+- **CS 61C:** Great Ideas of Computer Architecture (Machine Structures)
+- **DATA C100:** Principles & Techniques of Data Science
+- **ENGL-1B-40761 (CC):** Adv Comp and Critical Thinking
 
 ### Spring 2025
 - CS 61B: Data Structures
