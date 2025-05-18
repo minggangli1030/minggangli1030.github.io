@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Martin (Minggang) Li"
+title: "Minggang (Martin) Li"
 author_profile: true
 redirect_from: 
   - /about/
