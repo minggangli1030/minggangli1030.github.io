@@ -13,6 +13,6 @@ I am an undergraduate researcher at the Berkeley Operations and Behavioral Analy
 
 When I’m not coding, I’m grudgingly reliving high-school cross-country torture, perfecting cold-brew and matcha chemistry, and geeking out with my camera. 
 
-I also love reading Japanese mystery novels—especially Haruki Murakami (_The Wind-Up Bird Chronicle_; _The Wild Sheep Chase_) and Keigo Higashino (_Journey Under the Midnight Sun_).
+I also love reading Japanese mystery novels—especially Haruki Murakami’s _The Wind-Up Bird Chronicle_ and _The Wild Sheep Chase_, and Keigo Higashino’s _Journey Under the Midnight Sun_.
 
 Feel free to connect at minggangli [at] berkeley [dot] edu.
