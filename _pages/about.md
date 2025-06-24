@@ -7,6 +7,8 @@ redirect_from:
   - /about.html
 ---
 
-I’m an undergrad at UC Berkeley, double majoring in Applied Math (Stats cluster) and Data Science (Econ emphasis), with a CS minor. I’m especially interested in applying machine learning to real-world problems.
+Hi, I’m Minggang (Martin) Li 🎓 — a UC Berkeley rising sophomore double-majoring in Applied Mathematics and Data Science, with a Computer Science minor. I’m passionate about building machine-learning solutions that tackle real-world challenges, from forecasting crypto markets to creating AI-powered tools for social impact. 
 
-You can reach me at minggangli [at] berkeley [dot] edu.
+When I’m not coding, you’ll find me running, perfecting my matcha rituals, or exploring photography.
+
+Reach out at minggangli@berkeley.edu.
