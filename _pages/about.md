@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Minggang (Martin) Li"
+title: "Homepage"
 author_profile: true
 redirect_from: 
   - /about/
@@ -11,4 +11,4 @@ Hi, I’m Minggang (Martin) Li 🎓 — a UC Berkeley rising sophomore double-ma
 
 When I’m not coding, you’ll find me running, perfecting my matcha rituals, or exploring photography.
 
-Reach out at minggangli@berkeley.edu.
+Reach out at minggangli[at]berkeley[dot]edu.
