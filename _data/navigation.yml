@@ -12,14 +12,14 @@ main:
   - title: "Home"
     url: 
 
+  - title: "CV"
+    url: /images/CV_Minggang_Li.pdf
+
   - title: "Projects"
     url: /projects/
         
   - title: "Coursework"
     url: /coursework/
-
-  - title: "CV"
-    url: /images/CV_Minggang_Li.pdf
 
   # - title: "CV"
   #   url: /cv-json/
