@@ -18,10 +18,9 @@ main:
   - title: "Coursework"
     url: /coursework/
 
-  # - title: "CV"
-  #   url: /cv/
+  - title: "CV"
+    url: /CV_Minggang_Li.pdf
 
-    
   # - title: "CV"
   #   url: /cv-json/
     
