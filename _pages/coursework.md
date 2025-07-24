@@ -14,14 +14,14 @@ author_profile: true
 ### Summer 2025
 - **COMPSCI 61C**: Great Ideas of Computer Architecture (Machine Structures)
 - **DATA C100**: Principles & Techniques of Data Science
-- ENGL-1B-40761 (CC): Adv Comp and Critical Thinking
+- ENGL-1B: Adv Comp and Critical Thinking (CC)
 
 ### Spring 2025
 - **COMPSCI 61B**: Data Structures
 - **COMPSCI 70**: Discrete Mathematics and Probability Theory
 - **MATH 53**: Multivariable Calculus
 - NEU C61: Brain, Mind, and Behavior
-- ARTH-5-37208 (CC): West Art: Renaissance–Contemp
+- ARTH-5: West Art: Renaissance–Contemp (CC)
 - DeCal: DSS
 
 ### Fall 2024
@@ -34,4 +34,4 @@ author_profile: true
 - ECON 1: Introduction to Economics
 - PHILOS 25B: Modern Philosophy
 - GEOG N50AC: California
-- ENGL-1A-34953 (CC): Composition
+- ENGL-1A: Composition (CC)
