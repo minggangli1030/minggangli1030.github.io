@@ -6,11 +6,10 @@ author_profile: true
 ---
 
 ### Fall 2025
-- **CS 170**: Concepts of Probability
-- **CS 188**: Introduction to Artificial Intelligence
-- **EE 126**: Probability and Random Processes
+- **COMPSCI 170**: Efficient Algorithms and Intractable Problems
+- **COMPSCI 188**: Introduction to Artificial Intelligence
+- **EECS 126**: Probability and Random Processes
 - UGBA 135: Personal Financial Management
-- DeCal: Quant Trading, Cubstart iOS track
 
 ### Summer 2025
 - **COMPSCI 61C**: Great Ideas of Computer Architecture (Machine Structures)
