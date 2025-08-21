@@ -25,8 +25,8 @@ author_profile: true
 - COMPSCI 70: Discrete Mathematics and Probability Theory
 - MATH 53: Multivariable Calculus
 - NEU C61: Brain, Mind, and Behavior
-- DATA 198: Data Science Society DeCal
-- ARTH-5-37208 (CC): West Art: Renaissance–Contemp
+- ARTH-5: West Art: Renaissance–Contemp (CC)
+- DeCal: DSS
 
 ### Fall 2024
 
@@ -41,3 +41,4 @@ author_profile: true
 - PHILOS 25B: Modern Philosophy
 - GEOG N50AC: California
 - ENGL-1A-34953 (CC): Composition
+- ENGL-1A: Composition (CC)
