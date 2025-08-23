@@ -26,7 +26,7 @@ author_profile: true
 - MATH 53: Multivariable Calculus
 - NEU C61: Brain, Mind, and Behavior
 - ARTH-5: West Art: Renaissance–Contemp (CC)
-- DeCal: DSS
+- Data 198: Introduction to Real World Data Science
 
 ### Fall 2024
 
