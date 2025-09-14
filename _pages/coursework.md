@@ -9,7 +9,6 @@ author_profile: true
 
 - COMPSCI 170: Efficient Algorithms and Intractable Problems
 - COMPSCI 188: Introduction to Artificial Intelligence
-- ECON 101A: Macroeconomics (Quantitative)
 - MATH 110: Abstract Linear Algebra
 - UGBA 135: Personal Financial Management
 
