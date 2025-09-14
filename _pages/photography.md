@@ -9,9 +9,9 @@ author_profile: true
 
 During my trip to Kenya in 2018, I had the incredible opportunity to capture some of Africa's most magnificent wildlife. Here's a collection of my favorite shots from that adventure.
 
-<div class="photo-gallery">
-
 ## Birds of Kenya
+
+<div class="photo-gallery">
 
 <div class="photo-row">
   <div class="photo-item">
@@ -73,7 +73,11 @@ During my trip to Kenya in 2018, I had the incredible opportunity to capture som
   </div>
 </div>
 
+</div>
+
 ## Large Birds & Water Birds
+
+<div class="photo-gallery">
 
 <div class="photo-row">
   <div class="photo-item">
@@ -111,7 +115,11 @@ During my trip to Kenya in 2018, I had the incredible opportunity to capture som
   </div>
 </div>
 
+</div>
+
 ## Mammals
+
+<div class="photo-gallery">
 
 <div class="photo-row">
   <div class="photo-item">
@@ -161,7 +169,11 @@ During my trip to Kenya in 2018, I had the incredible opportunity to capture som
   </div>
 </div>
 
+</div>
+
 ## Reptiles & Other Wildlife
+
+<div class="photo-gallery">
 
 <div class="photo-row">
   <div class="photo-item">
